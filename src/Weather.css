@@ -22,9 +22,9 @@ body {
     
    }
 
-   .Weather img {
+   .Weather canvas {
        display: inline-block;
-       width: 64px;
+       margin-right: 10px;
 
    }
 
